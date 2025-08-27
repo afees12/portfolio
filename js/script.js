@@ -56,9 +56,10 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
 // typed js
 
 const typed = new Typed('.multiple-text', {
-    strings: ['Business & Operations Management Specialist', 'IT & ERP Solutions Professional', 'Operations & Digital Transformation Expert'],
+    strings: ['Marketing & Business Strategy Specialist', 'Digital Marketing & Brand Development Expert', 'Marketing Analytics & Consumer Insights Professional'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
     loop: true
+
     });
